@@ -26,7 +26,7 @@
 		<org.slf4j-version>1.6.6</org.slf4j-version>
 		
 		<!-- Security -->
-		<security.version>4.1.3.RELEASE</security.version>
+		<security.version>5.3.3.RELEASE</security.version>
 
 	</properties>
 
