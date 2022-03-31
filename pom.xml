@@ -17,7 +17,7 @@
 		<java-version>1.8</java-version>
 
 		<!-- 사용 스프링 프레임워크 버전 정보 -->
-		<org.springframework-version>4.2.5.RELEASE</org.springframework-version>
+		<org.springframework-version>5.3.18</org.springframework-version>
 
 		<!-- PARC에서 개발한 자바 프로그래밍 언어용 관점 지향 프로그래밍 (AOP) 확장 기능 -->
 		<org.aspectj-version>1.6.10</org.aspectj-version>
